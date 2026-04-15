@@ -1,0 +1,15 @@
+using System;
+
+public class Vetor
+{
+    public static void Main()
+    
+    {
+        int[] numeros = [10, 20, 20];
+
+        int posicao = 2;
+        Console.WriteLine($"Na posição [{posicao}] esta o valor: {numeros[posicao]}");
+    }
+}
+
+    
